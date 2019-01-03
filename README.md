@@ -7,13 +7,13 @@ Servus! We welcome you to our ReDI Munich family of amazing volunteers. Let’s 
 
 General FAQ
 
-What is ReDI School? 
+#What is ReDI School? 
 
 ReDI School offers education to break down barriers and connect the leaders of tomorrow. We use technology to connect human potential with employment opportunities with dignity and humility. We value reliability, usefulness, care and playfulness.
 
 Our educational goal is to provide students with useful knowledge that is appreciated by industry and academia to support their accelerated integration into the German labor market and into German society.
 
-What is ReDI Munich? 
+#What is ReDI Munich? 
 
 ReDI Munich is the second branch of ReDI School after the huge success of ReDI School in Berlin. Fun fact, the city of Munich actually wanted that ReDI School opened in Munich and they are our main sponsor for Munich! 
 
